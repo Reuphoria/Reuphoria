@@ -12,9 +12,9 @@
 
 ## 🚀 Sobre mí
 
-💻 Ingeniero de Sistemas graduado de las UTS
+💻 Ingeniero de Sistemas 
 
-🔐 Especialización en Seguridad Informática (en curso)
+🔐 Especialización en Seguridad Informática 
 
 📱 Desarrollo de aplicaciones móviles con Flutter
 
@@ -28,7 +28,7 @@
 
 🛡️ Laboratorio de Pentesting en Raspberry Pi
 
-📍 Lebrija, Santander - Colombia
+📍 Bucaramanga - Colombia
 
 ---
 
