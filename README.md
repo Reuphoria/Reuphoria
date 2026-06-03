@@ -71,18 +71,6 @@
 
 ---
 
-## 📈 Estadísticas GitHub
-
-<p align="center">
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reuphoria&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reuphoria&layout=compact&theme=tokyonight)
-
-</p>
-
----
 
 ## 📫 Contacto
 
