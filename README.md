@@ -28,7 +28,6 @@
 
 🛡️ Laboratorio de Pentesting en Raspberry Pi
 
-📍 Bucaramanga - Colombia
 
 ---
 
