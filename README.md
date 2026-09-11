@@ -31,5 +31,11 @@ Ciberseguridad	Kali Linux · Parrot OS · Pentesting · Análisis de vulnerabili
 Control de versiones	Git · GitHub
 Sistemas operativos	Linux (administración y mantenimiento)
 
+---
 
+## 🤝 Habilidades blandas
+
+Agilidad · Coordinación · Adaptabilidad · Inteligencia emocional · Liderazgo · Trabajo en equipo · Inglés B1-B2
+
+<p align="center"><i>Abierto a oportunidades en desarrollo, análisis de datos y ciberseguridad. ¡Hablemos!</i></p>
 
